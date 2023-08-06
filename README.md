@@ -1,7 +1,7 @@
 ### Lenny D,
 
 # 🛠 I working on ?
-I'm working on my minecraft server [ArkaniaStudios](https://github.com/ArkaniaStudios).
+I'm working on my minecraft server 
 
 ---
 | languages  | others  |
